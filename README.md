@@ -2,13 +2,13 @@
 
 ### Hi there I'm Draxo :lemon:
 
-[![draxo.ch](https://img.shields.io/static/v1?label=lucafluri.ch&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.lucafluri.ch/)
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/lucafluri/)
-[![me@draxo.ch](https://img.shields.io/static/v1?label=me@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:me@lucafluri.ch)
+[![draxo.ch](https://img.shields.io/static/v1?label=lucafluri.ch&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.Draxoys.ch/)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/Abiyn09/)
+[![me@draxo.ch](https://img.shields.io/static/v1?label=me@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:me@draxo.ch)
   
   
-👨‍💻 24 Years old Developer  
-👨‍🎓 Studying Computer Science here in Switzerland  
-🚧 **Current Project:** [BotWA](https://github.com/lucafluri/bot)
+👨‍💻 14 Years old Developer  
+👨‍🎓 Studying In Junior High School Indonesia 
+🚧 **Current Project:** [BotWA](https://github.com/DraxoGanz/bot)
 
 ⭐️ From [Draxo](https://github.com/DraxoGanz)
